@@ -96,6 +96,7 @@ export const Search = function () {
     }
 
     this.element.input.text.placeholder = placeholder;
+    this.element.input.text.placeholder = '🔍︎';
 
   };
 
